@@ -2,7 +2,7 @@
 
 # Project Structure
 
-![ProjectStructure-cucumber-selenium-java](https://github.com/madhusaran/cucumber-selenium-java/blob/main/tree.png?raw=true)
+![ProjectStructure-cucumber-selenium-java](https://github.com/madhusaran/cucumber-selenium-java/blob/main/target/tree.png?raw=true)
 
 
 ## Environment Setup
