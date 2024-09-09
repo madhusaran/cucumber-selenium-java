@@ -2,6 +2,7 @@
 
 # Project Structure
 
+![ProjectStructure-cucumber-selenium-java](https://github.com/madhusaran/cucumber-selenium-java/blob/report/tree.png)
 
 
 ## Environment Setup
@@ -18,3 +19,6 @@
 
 Once the ```mvn test``` is completed.
 HTML is generated in the path - ```target/htmlReports.html```
+
+##To view the sample report
+**[Click here](https://github.com/madhusaran/cucumber-selenium-java/releases/download/report/htmlReports.html).**
