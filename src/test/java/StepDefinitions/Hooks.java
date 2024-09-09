@@ -40,7 +40,7 @@ public class Hooks {
 		LoggerUtil.getLogger().info("Scenario finished: " + scenario.getName());
 
 		// Attach logs to the Cucumber report
-		String logFilePath = "target/test-logs/log4j2.log";
+		String logFilePath = "target/logs/log4j2.log";
 		try {
 			byte[] logFileContent = Files.readAllBytes(Paths.get(logFilePath));
 			scenario.attach(logFileContent, "text/plain", "============ Click here to view the Scenario OUTPUT ==========");
